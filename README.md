@@ -6,7 +6,7 @@
 <b>Made this app using nodejs.</b>
 
 # How to run on your device ?
-Step 1: click clone or download button to download all the files.
+<p>Step 1: click clone or download button to download all the files.</p>
 Step 2: open any editor for instance visual studio code
          inside terminal install all the dependencies using command 
          npm install package-name
