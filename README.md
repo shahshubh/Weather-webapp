@@ -1,9 +1,12 @@
 # Weather-webapp
 
-
 <b>It is a basic app which shows the weather of the particular City.</b>
 <b>A app which uses the api of the open weather</b> 
 <b>Made this app using nodejs.</b>
+
+# Deployed Version
+
+https://fathomless-journey-97759.herokuapp.com/
 
 # How to run on your device ?
 <p>Step 1: click clone or download button to download all the files.</p>
