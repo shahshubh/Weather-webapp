@@ -18,4 +18,4 @@ Step 2: open any editor for instance visual studio code
 Step 3:  inside terminal run command `node index.js`
 
 Step 4:  Now app will be serving at port 3000 
-         Go to browser and goto url `localhost://3000`
+         Go to browser and goto url `localhost:3000`
