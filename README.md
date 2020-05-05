@@ -4,9 +4,13 @@
 <b>A app which uses the api of the open weather</b> 
 <b>Made this app using nodejs.</b>
 
-# Deployed Version
+<hr>
 
-https://fathomless-journey-97759.herokuapp.com/
+![1](1.PNG)
+
+<hr>
+
+![2](2.PNG)
 
 # How to run on your device ?
 Step 1: click clone or download button to download all the files.
